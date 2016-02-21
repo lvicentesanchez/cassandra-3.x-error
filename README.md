@@ -29,7 +29,7 @@ If we run the same program against Cassandra 2.x, we would get this:
 [info] Measure(3,23)
 ```
 
-We were expecting Cassandra 3.x to produce the same output as Cassandra 2.x. It seems that there is an issue with simple primary keys and pagination.
+We were expecting Cassandra 3.x to produce the same output as Cassandra 2.x. It seems that there is an issue with simple primary keys, pagination and the IN clause.
 
 ## Ok ##
 
