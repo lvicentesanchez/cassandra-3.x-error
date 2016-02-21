@@ -33,7 +33,7 @@ We were expecting Cassandra 3.x to produce the same output as Cassandra 2.x. It 
 
 ## Ok ##
 
-Execute `runMain CassandraOk`. Whether we ran it against Cassandra 2.x or Cassandra 3.x, we would get this in you terminal:
+Execute `runMain CassandraOk`. Whether we ran it against Cassandra 2.x or Cassandra 3.x, we would get this in our terminal:
 
 ```
 [info] Measure(1,0,11)
